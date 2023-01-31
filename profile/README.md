@@ -10,6 +10,8 @@
 
 [Hannah McDonald](https://github.com/hmcdonaldid00) &rarr; mcdonaldhannah2000@gmail.com
 
-[Monisah Mehtabuddin](https://github.com/Monisah) &rarr; monisah232@gmail.com
+[Monisah Mehtabuddin](https://github.com/Monisah) &rarr; monisah.mehtab@gmail.com
 
 [Daniel Zuniga](https://github.com/dzuniga1117) &rarr; dzuniga1117@gmail.com
+
+![My Image](123poster.png)
